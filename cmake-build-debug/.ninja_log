@@ -1,0 +1,25 @@
+# ninja log v5
+4	1201	7074011678709241	CMakeFiles/timberman.dir/main.cpp.obj	bd7d408aa870318
+4	644	7074236029779856	timberman.exe	49ac88cc416ec2ea
+42	2090	7073454102391680	CMakeFiles/timberman.dir/reader.cpp.obj	10a84f2797f23e26
+33	2438	7074010476926762	CMakeFiles/timberman.dir/display.cpp.obj	500314f8d71a2aec
+19	1523	7074234836867260	CMakeFiles/timberman.dir/readerMouse.cpp.obj	c39cde2f743aff58
+13	1450	7074234836130300	CMakeFiles/timberman.dir/readerKeyboard.cpp.obj	e5162e4ced2cf3d8
+1	525	7193451690564523	build.ninja	2757bc2c2d0e85b0
+26	1708	7074234838711103	CMakeFiles/timberman.dir/engine.cpp.obj	e8eaaaf4e4292e48
+6	1541	7074234837033910	CMakeFiles/timberman.dir/tree.cpp.obj	d303a481607b1a5f
+23	963	7193451690564523	build.ninja	2757bc2c2d0e85b0
+80	4773	7193451737225019	CMakeFiles/timberman.dir/tree.cpp.obj	d303a481607b1a5f
+3	4775	7193451739920594	CMakeFiles/timberman.dir/readerMouse.cpp.obj	c39cde2f743aff58
+19	4824	7193451741563971	CMakeFiles/timberman.dir/readerKeyboard.cpp.obj	e5162e4ced2cf3d8
+43	5078	7193451744138407	CMakeFiles/timberman.dir/main.cpp.obj	bd7d408aa870318
+31	5094	7193451744283818	CMakeFiles/timberman.dir/engine.cpp.obj	e8eaaaf4e4292e48
+90	5228	7193451745609798	CMakeFiles/timberman.dir/display.cpp.obj	500314f8d71a2aec
+5228	6487	7193451758161519	timberman.exe	49ac88cc416ec2ea
+5	1301	7193452489215656	CMakeFiles/timberman.dir/engine.cpp.obj	e8eaaaf4e4292e48
+1302	1948	7193452495603287	timberman.exe	49ac88cc416ec2ea
+7	1412	7193457816397076	CMakeFiles/timberman.dir/engine.cpp.obj	e8eaaaf4e4292e48
+13	1548	7193457817753898	CMakeFiles/timberman.dir/display.cpp.obj	500314f8d71a2aec
+1549	2204	7193457824226163	timberman.exe	49ac88cc416ec2ea
+6	1195	7193462512177725	CMakeFiles/timberman.dir/engine.cpp.obj	e8eaaaf4e4292e48
+1196	1892	7193462519058364	timberman.exe	49ac88cc416ec2ea
