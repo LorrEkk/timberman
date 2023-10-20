@@ -25,9 +25,8 @@ private:
     void loadSprites();
 
     std::vector<sf::Sprite> treeSegments;
-    sf:: Texture treeTexture0, treeTexture1, treeTexture2, playerTexture1, playerTexture2, backgroundTexture; //drzewo puste, lewo, prawo, gracz, tło
-    sf::Sprite treeSprite0, treeSprite1, treeSprite2, playerSprite, backgroundSprite; //drzewo puste, lewo, prawo, gracz, tło
-    sf::Font font;
+    sf:: Texture treeTexture0, treeTexture1, treeTexture2, playerTexture1, playerTexture2, backgroundTexture; //tree-empty, tree-left, tree-right, player, background
+    sf::Sprite treeSprite0, treeSprite1, treeSprite2, playerSprite, backgroundSprite; //tree-empty, tree-left, tree-right, player, background
     sf::Text textPoints, textInfo;
 };
 

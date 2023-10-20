@@ -12,7 +12,7 @@ public:
     int getAndGenerate();
     int get(int index);
 
-    std::vector<int> tree; // 0 - puste, 1 - lewo, 2 - prawo
+    std::vector<int> tree; // 0 - empty, 1 - left branch, 2 - right branch
 
     Tree(const Tree& obj) = delete;
     Tree& operator=(const Tree& obj) = delete;
