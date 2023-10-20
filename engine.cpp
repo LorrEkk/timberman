@@ -10,7 +10,7 @@ Engine::Engine() {
     points = 0;
     playerAnimationStatus = false;
 
-//  uncomment one of the following lines to select control device
+//  uncomment one of the following lines to select control device (keyboard [A/D/leftArrow/rightArrow] or mouse [lmb/rmb])
     reader = &readerKeyboard;
 //    reader = &readerMouse;
 }
