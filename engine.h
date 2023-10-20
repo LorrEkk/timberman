@@ -30,7 +30,7 @@ private:
     sf::RenderWindow* window;
     sf::Clock clock;
     bool currentPosition, playerAnimationStatus;
-    bool gameStatus; //false - stopped, true - game running
+    bool gameStatus; //false - zatrzymana, true - w trakcie gry
     int points;
 };
 
